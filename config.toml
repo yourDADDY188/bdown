@@ -20,6 +20,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "https://twitter.com/rstudio"
 
 [params]
-  avatar = "khienguyen.png"
+  avatar = "..\\public\\images\\khienguyen.png"
   author = "Khiem Nguyen"
   description = "Describe your website"
