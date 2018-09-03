@@ -20,7 +20,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "https://twitter.com/rstudio"
 
 [params]
-  avatar = "https:\\khiem-nguyen.netlify.com\\public\\images\\khiemguyen.png"
+  avatar = "khiemguyen.png"
   author = "Khiem Nguyen"
   description = "Describe your website"
 
