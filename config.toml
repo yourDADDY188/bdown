@@ -20,24 +20,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "https://twitter.com/rstudio"
 
 [params]
-    description = "A website built through Hugo and blogdown."
-
-    # options for highlight.js (version, additional languages, and theme)
-    highlightjsVersion = "9.11.0"
-    highlightjsCDN = "//cdn.bootcss.com"
-    highlightjsLang = ["r", "yaml"]
-    highlightjsTheme = "github"
-
-    MathJaxCDN = "//cdn.bootcss.com"
-    MathJaxVersion = "2.7.1"
-
-    [params.logo]
-    url = "khienguyen.png"
-    width = 50
-    height = 50
-    alt = "Logo"
-
-[params]
   avatar = "khienguyen.png"
   author = "Khiem Nguyen"
   description = "Describe your website"
