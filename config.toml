@@ -23,5 +23,3 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   avatar = "khiemnguyen.png"
   author = "Khiem Nguyen"
   description = "Hi, im khiem!"
-
- 
