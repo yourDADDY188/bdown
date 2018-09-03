@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "Khie Nguyen"
 theme = "hugo-sustain"
 googleAnalytics = ""
 disqusShortname = ""
@@ -32,7 +32,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     MathJaxVersion = "2.7.1"
 
     [params.logo]
-    url = "logo.png"
+    url = "khienguyen.png"
     width = 50
     height = 50
     alt = "Logo"
