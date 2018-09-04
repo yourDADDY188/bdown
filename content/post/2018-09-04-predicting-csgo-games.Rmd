@@ -46,3 +46,6 @@ pie(
   init.angle = -50, border = NA
 )
 ```
+```r
+blogdown::new_post("Post Title", ext = '.Rmd')
+```
